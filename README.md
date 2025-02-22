@@ -13,13 +13,14 @@ A simple Python script to automatically **organize files** in a directory by mov
 ![Screenshot (433)](https://github.com/user-attachments/assets/8a5266fb-f1ae-4881-9e46-16ef4447dacb)
 
 ### After Running `clean.py`
-![Screenshot (434)](https://github.com/user-attachments/assets/9b773a93-4c52-45ab-8e63-f127142d8174)
+![Screenshot (434)](https://github.com/user-attachments/assets/736218d5-492d-47ca-8e94-047eedd70904)
+
 
 ## 🛠️ Installation & Usage
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/desktop-cleaner.git
-   cd desktop-cleaner
+   git clone https://github.com/bhruti/DirectoryCleaner
+   cd DirectoryCleaner
    ```
 
 2. **Run the script** inside the target directory:
